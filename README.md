@@ -1,4 +1,4 @@
-# My Classic Game Recreation Project
+# My Hunter
 
 ## Overview
 I recently completed a project where I recreated a game reminiscent of the classic "Duck Hunt."
