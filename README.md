@@ -1,5 +1,8 @@
 # My Hunter 🎮
 
+## Game Preview 📸
+![My Hunter Game Preview](preview.png)
+
 ## Overview 🌟
 I recently completed a project where I recreated a game reminiscent of the classic "Duck Hunt."
 
