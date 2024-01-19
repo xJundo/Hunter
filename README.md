@@ -16,3 +16,38 @@ I recently completed a project where I recreated a game reminiscent of the class
 
 ## Reflection
 This project was not just about replicating a classic game but also infusing it with my own creative touches to enhance player enjoyment.
+
+## Prerequisites
+- GCC (for compiling a C program)
+- CSFML library (graphics library for the C language)
+
+## How to Use
+This will display the project's helper along with all the keybinds.
+```bash
+make && ./my_hunter -h
+```
+To compile and run the program, use the following commands:
+```bash
+make && ./my_hunter
+```
+
+## Key Bindings
+
+### Menu
+- Only click is available.
+
+### Settings
+- **ESC**: Go back to game state.
+- **Click on Sound**: Mute/Unmute music.
+- **Click on 30 or 60**: Switch FPS.
+- **Click on Eric**: Toggle Eric mode on/off (Unlimited Life).
+- **Click on Bar**: Increment dinosaurs between 0 and 5. No limit of dinosaurs in map when leaving settings. Try it!
+
+### Play
+- **Click on Bird**: Increase score by 100.
+- **ESC**: Toggle pause mode on/off.
+
+### Game Over
+- **Press R**: Restart Game with saved settings.
+- **Press Q**: Leave Game.
+
